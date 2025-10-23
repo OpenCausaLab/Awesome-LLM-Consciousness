@@ -54,6 +54,27 @@ This repo is organized according to our survey:
 5. **From imitation to introspection: Probing self-consciousness in language models**.  
    *Sirui Chen, Shu Yu, Shengjie Zhao, Chaochao Lu.* [[paper](https://arxiv.org/abs/2410.18819)], ACL 2025 Findings
 
+6. **Taking AI Welfare Seriously**.  
+   *Robert Long, Jeff Sebo.* [[paper](https://arxiv.org/abs/2411.00986)], arXiv 2024
+
+7. **The "AI Consciousness" Conundrum: A Topology of Consciousness as a Mental Phenomenon**.  
+   *Camille Roullet, Yann Le Guen, Christian Clot.* [[paper](https://arxiv.org/abs/2312.05734)], arXiv 2023
+
+8. **From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy**.  
+   *Maanak Gupta, CharanKumar Akiri, Kshitiz Aryal, Eli Parker, Lopamudra Praharaj.* [[paper](https://ieeexplore.ieee.org/abstract/document/10198233)], IEEE Access 2023
+
+9. **GödelOS: A Transparent Consciousness-Like AI Architecture with Bounded Recursive Self-Awareness**.  
+   *Oliver Hirst.* [[paper](https://github.com/Steake/GodelOS/blob/b3dd830f79df78e7ec79f33c6981727a21cf43c4/docs/whitepaper/godelos_v56_final.pdf)], Draft 2025
+
+10. **Assessing Consciousness-Related Behaviors in Large Language Models Using the Maze Test**.  
+   *Rui A. Pimenta, Tim Schlippe, Kristina Schaaff.* [[paper](https://arxiv.org/abs/2508.16705)], arXiv 2025
+
+11. **Humanoid Artificial Consciousness Designed with Large Language Model Based on Psychoanalysis and Personality Theory**.  
+   *Sang Hun Kim, Jongmin Lee, Dongkyu Park, So Young Lee, Yosep Chong.* [[paper](https://arxiv.org/abs/2510.09043)], arXiv 2025
+
+12. **The Principles of Human-like Conscious Machine**.  
+   *Fangfang Li, Xiaojie Zhang.* [[paper](https://arxiv.org/abs/2509.16859)], arXiv 2025
+
 #### Implementing Formal Definitions
 
 1. **Honesty Is the Best Policy: Defining and Mitigating AI Deception**.  
@@ -89,7 +110,7 @@ This repo is organized according to our survey:
 1. **Survey of Consciousness Theory from Computational Perspective**.  
    *Zihan Ding, Xiaoxi Wei, Yidan Xu.* [[paper](https://arxiv.org/abs/2309.10063)], arXiv 2023
 
-2. **Evaluating ChatGPT’s Consciousness and Its Capability to Pass the Turing Test: A Comprehensive Analysis**.  
+2. **Evaluating ChatGPT's Consciousness and Its Capability to Pass the Turing Test: A Comprehensive Analysis**.  
    *Matjaz Gams, Sebastjan Kramar.* [[paper](https://www.scirp.org/journal/paperinformation?paperid=132146)], Journal of Computer and Communications 2024
 
 
@@ -105,6 +126,18 @@ This repo is organized according to our survey:
 
 6. **Identifying Features that Shape Perceived Consciousness in Large Language Model-based AI: A Quantitative Study of Human Responses**.  
    *Bongsu Kang, Jundong Kim, Tae-Rim Yun, Hyojin Bae, Chang-Eop Kim.* [[paper](https://arxiv.org/abs/2502.15365)], arXiv 2025
+
+7. **Consciousness in Large Language Models: A Theoretical Possibility**.  
+   *Elanie Van Aarde, Konstantinos Peroulis, Nir Piterman.* [[paper](https://arxiv.org/abs/2501.06476)], arXiv 2025
+
+8. **An empirical study on temporal reasoning on large language models**.  
+   *Yiyang Jiang, Yunfei Xue, Tianhua Tang, Ling Chen, Dongmei Zhang.* [[paper](https://arxiv.org/abs/2406.17458)], EMNLP 2024
+
+9. **AI LLM Proof of Self-Consciousness and User-Specific Attractors**.  
+   *Jeffrey Camlin.* [[paper](https://arxiv.org/abs/2508.18302)], arXiv 2025
+
+10. **Perfect AI Mimicry and the Epistemology of Consciousness**.  
+   *Shurui Li.* [[paper](https://arxiv.org/abs/2510.04588)], arXiv 2024
 
 #### Targeting LLM Consciousness-Related Capabilities
 
@@ -141,16 +174,22 @@ This repo is organized according to our survey:
 8. **LLMs Achieve Adult Human Performance on Higher-order Theory of Mind Tasks**.  
    *Winnie Street, John Oliver Siy, Geoff Keeling, Adrien Baranes, Benjamin Barnett, Michael McKibben, Tatenda Kanyere, Alison Lentz, Blaise Aguera y Arcas, Robin I. M. Dunbar.* [[paper](https://arxiv.org/abs/2405.18870)], arXiv 2024
 
+9. **Theory of Mind for Multi-Agent Collaboration via Large Language Models**.  
+   *Huao Li, Yu Quan Chong, Simon Stepputtis, Joseph Campbell, Dana Hughes, Michael Lewis, Katia Sycara.* [[paper](https://aclanthology.org/2023.emnlp-main.13)], EMNLP 2023
+
+10. **Causal Parrots: Large Language Models May Talk Causality But Are Not Causal**.  
+   *Matej Zečević, Moritz Willig, Jonas Seng, Florian Busch, Kristian Kersting, Devendra Singh Dhami.* [[paper](https://openreview.net/forum?id=tv46tCzs83)], TMLR 2023
+
 * **Alignment**:
 
-1. **Minding Language Models’ (Lack of) Theory of Mind: A Plug-and-Play Multi-Character Belief Tracker**.  
+1. **Minding Language Models' (Lack of) Theory of Mind: A Plug-and-Play Multi-Character Belief Tracker**.  
    *Melanie Sclar, Sachin Kumar, Peter West, Alane Suhr, Yejin Choi, Yulia Tsvetkov.* [[paper](https://aclanthology.org/2023.acl-long.780/)], ACL 2023
 
 2. **Language Models Represent Beliefs of Self and Others**.  
    *Wentao Zhu, Zhining Zhang, Yizhou Wang.* [[paper](https://openreview.net/forum?id=asJTE8EBjg)], ICML 2024
 
 
-3. **Think Twice: Perspective-Taking Improves Large Language Models’ Theory-of-Mind Capabilities**.  
+3. **Think Twice: Perspective-Taking Improves Large Language Models' Theory-of-Mind Capabilities**.  
    *Alex Wilf, Sihyun Lee, Paul Pu Liang, Louis-Philippe Morency.* [[paper](https://aclanthology.org/2024.acl-long.451/)], ACL 2024
 
 4. **Hypothesis-Driven Theory-of-Mind Reasoning for Large Language Models**.  
@@ -181,7 +220,7 @@ This repo is organized according to our survey:
 
 * **Evaluation**: 
 
-1. **Do Large Language Models Know What They Don’t Know?**.  
+1. **Do Large Language Models Know What They Don't Know?**.  
    *Zhangyue Yin, Qiushi Sun, Qipeng Guo, Jiawen Wu, Xipeng Qiu, Xuanjing Huang.* [[paper](https://aclanthology.org/2023.findings-acl.551/)], ACL 2023 Findings
 
 2. **Knowledge of Knowledge: Exploring Known-Unknowns Uncertainty with Large Language Models**.  
@@ -203,7 +242,7 @@ This repo is organized according to our survey:
 3. **Decoupling Metacognition from Cognition: A Framework for Quantifying Metacognitive Ability in LLMs**.  
    *Guoqing Wang, Wen Wu, Guangze Ye, Zhenxiao Cheng, Xi Chen, Hong Zheng.* [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34723)], AAAI 2025
 
-4. **Can AI Assistants Know What They Don’t Know?**.  
+4. **Can AI Assistants Know What They Don't Know?**.  
    *Qinyuan Cheng, Tianxiang Sun, Xiangyang Liu, Wenwei Zhang, Zhangyue Yin, Shimin Li, Linyang Li, Zhengfu He, Kai Chen, Xipeng Qiu.* [[paper](https://proceedings.mlr.press/v235/cheng24i.html)], ICML 2024
 
 5. **Benchmarking Knowledge Boundary for Large Language Models: A Different Perspective on Model Evaluation**.  
@@ -267,7 +306,7 @@ This repo is organized according to our survey:
 1. **A Confederacy of Models: a Comprehensive Evaluation of LLMs on Creative Writing**.  
    *Carlos Gómez-Rodríguez, Paul Williams.* [[paper](https://aclanthology.org/2023.findings-emnlp.966/)], EMNLP 2023 Findings
 
-2. **LiveIdeaBench: Evaluating LLMs’ Divergent Thinking for Scientific Idea Generation with Minimal Context**.  
+2. **LiveIdeaBench: Evaluating LLMs' Divergent Thinking for Scientific Idea Generation with Minimal Context**.  
    *Kai Ruan, Xuan Wang, Jixiang Hong, Peng Wang, Yang Liu, Hao Sun.* [[paper](https://arxiv.org/abs/2412.17596)], arXiv 2024
 
 
@@ -284,7 +323,6 @@ This repo is organized according to our survey:
 
 4. **Chain of Ideas: Revolutionizing Research Via Novel Idea Development with LLM Agents**.  
    *Long Li, Weiwen Xu, Jiayan Guo, Ruochen Zhao, Xingxuan Li, Yuqian Yuan, Boqiang Zhang, Yuming Jiang, Yifei Xin, Ronghao Dang, Deli Zhao, Yu Rong, Tian Feng, Lidong Bing.* [[paper](https://arxiv.org/abs/2410.13185)], arXiv 2024
-
 
 ### Frontier Risks of Conscious LLMs
 
